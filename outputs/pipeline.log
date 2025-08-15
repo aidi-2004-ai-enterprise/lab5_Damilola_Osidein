@@ -1,0 +1,17 @@
+2025-08-13 12:11:30,524 - INFO - Loaded data: 6819 rows, 96 columns
+2025-08-13 12:40:30,469 - INFO - Loaded data: 6819 rows, 96 columns
+2025-08-13 12:46:03,578 - INFO - Dropped 0 rows with missing target
+2025-08-13 12:46:03,594 - INFO - Train/Test split: 5455 / 1364
+2025-08-13 12:46:03,620 - INFO - Selected 30 features (30 numeric + 0 categorical)
+2025-08-14 09:52:59,068 - INFO - Loaded data: 6819 rows, 96 columns
+2025-08-14 09:53:01,595 - INFO - Loaded data: 6819 rows, 96 columns
+2025-08-14 10:00:21,538 - INFO - Dropped 0 rows with missing target
+2025-08-14 10:00:21,551 - INFO - Train/Test split: 5455 / 1364
+2025-08-14 10:00:21,599 - INFO - Selected 30 features (30 numeric + 0 categorical)
+2025-08-14 10:00:24,444 - INFO - Dropped 0 rows with missing target
+2025-08-14 10:00:24,444 - INFO - Train/Test split: 5455 / 1364
+2025-08-14 10:00:24,498 - INFO - Selected 30 features (30 numeric + 0 categorical)
+2025-08-14 10:27:33,952 - INFO - Loaded data: 6819 rows, 96 columns
+2025-08-14 10:37:20,567 - INFO - Dropped 0 rows with missing target
+2025-08-14 10:37:20,567 - INFO - Train/Test split: 5455 / 1364
+2025-08-14 10:37:20,607 - INFO - Selected 30 features (30 numeric + 0 categorical)

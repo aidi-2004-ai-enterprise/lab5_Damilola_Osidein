@@ -1,0 +1,4 @@
+- 95 numeric features examined; histograms and boxplots saved where possible.
+- Correlation heatmap generated to detect multicollinearity (saved if successful).
+- Checked missing values and basic descriptive stats.
+- Sampled distributions informed scaling and outlier handling decisions.
